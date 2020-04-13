@@ -215,7 +215,7 @@ generated_text=generate_text(model,tokenizer,seq_len,seed_text=seed_text, num_ge
 
 print('generated_text2:-',generated_text)
 
-seed_text=' '.join(text_sequences[3]) #second example
+seed_text=' '.join(text_sequences[3]) # Third example
 
 print('seed_text3:-',seed_text)
 
